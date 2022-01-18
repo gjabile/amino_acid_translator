@@ -1,1 +1,17 @@
+Codon sequence Translator
+A divide & conquer algorithm to parse biological codon sequences & extract amino acid sequences for protein analysis
+
+Motivation:
+When I was taking grade 12 biology in highschool, one of the units involved DNA replication - specifically codon sequences which are groups of 3 nucleotide 
+bases that code for a specific amino acid which can be subsequently chained together to form larger protein structures. One of our assignments involved us 
+having to translate the codon sequences into amino acid sequences by hand. So, I created this program to expediate this process and make my homework a lot 
+easier. 
+
+What did you learn?
+The main thing I learned was how to write meaningful and neat code. When I was debugging my code and trying to figure out why I was running into so many errors,
+it became exponentially easier when I began organizing my code neatly and adding comments to see the different paths the program can take when it runs. 
+
+Current/Future:
+I am currently working on getting the program to access very large data sets & time its run time. Then I plan on trying out different algorithms to see how 
+much the run time can be minimized.
 
